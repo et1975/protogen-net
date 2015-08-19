@@ -1,0 +1,15 @@
+type file
+id protogen-net
+version 0.0
+authors Marc Gravell, Eugene Tolmachev
+description
+    abandoned protobuf-net's protogen tools: generate C# from .proto files
+tags
+	protogen
+projectUrl
+	http://www.github.com/et1975/protogen-net
+licenseUrl
+	https://github.com/et1975/protogen-net/blob/master/protogen/License.txt
+requireLicenseAcceptance false
+files
+    protogen/*.* ==> tools
